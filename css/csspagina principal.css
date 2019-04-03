@@ -1,0 +1,110 @@
+body {
+    background:white;
+    color:Black;
+}
+
+.caja1 {
+  position: fixed;
+  top:215px;
+  bottom: auto;
+  right: 0px;
+  left: 1150px;
+  width: 100px;
+  margin: 5px 5px;
+  border: 5px solid #000;
+  padding: 10px;
+  background: #46F32B
+
+}
+
+.linea1{
+  width: 800px;
+}
+
+.lista1 {
+    position: relative;
+    margin: 5px 5px;
+    border: 5px solid #000;
+    padding: 10px;
+    width: 300px;
+    top:px;
+    bottom: 0px;
+    right: 0px;
+    left: 575px;
+    background: #F3EA2B
+}
+
+.footer1 {
+  position: relative;
+  background: black;
+  top:px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  color: white;
+  width: 1830px;
+}
+
+.imagen1 {
+  position: relative;
+  top:px;
+  bottom: 0px;
+  right: 0px;
+  left: 500px;
+}
+
+.ddp1 {
+  margin: 2.5px 500px;
+  border: 5px solid #000;
+  padding: 10px;
+  position: center 0;
+}
+
+.ddp2 {
+  margin: 2.5px 700px;
+  border: 5px solid #000;
+  padding: 10px;
+  position: center 0;
+}
+
+.link:link {
+  text-decoration: none;
+  font-family: arial;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  margin: 5px 30px ;
+  border: 1.1px solid #000;
+  display: inline-block;
+  padding: 10px;
+  background: #36B3FF;
+  box-shadow: 0px 5px 0px #000;
+}
+
+.link:hover {
+  text-decoration: none;
+  font-family: arial;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin: 5px 30px ;
+  border: 1.1px solid #000;
+  display: inline-block;
+  padding: 10px;
+  background: #36B3FF;
+  box-shadow: 0px 10px 0px #000;
+}
+
+.link:active {
+  text-decoration: none;
+  font-family: arial;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin: 5px 30px ;
+  border: 1.1px solid #000;
+  display: inline-block;
+  padding: 10px;
+  background: #0CFDFD;
+  box-shadow: 0px 10px 0px #000;
+}
